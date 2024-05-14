@@ -40,7 +40,7 @@ const music_list = [
         music : 'music/popout.mp3'
     },
     {
-        img : 'images/223s.jpg',
+        img : 'images/223s.png',
         name : '223s',
         artist : 'YNW Melly',
         music : 'music/223s.mp3'
